@@ -1,4 +1,4 @@
 # Developer Profile
-- **Name:** Connor Collier
+- **Name:** ConnorCollier7
 - **Hobby:** Pixel Art
 - **Preferred Development Tool:** VS Code

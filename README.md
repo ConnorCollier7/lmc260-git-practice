@@ -1,8 +1,4 @@
 # Developer Profile
-<<<<<<< HEAD
-- **Developer:** Connor Collier
-=======
-- **Name:** ConnorCollier7
->>>>>>> add-github-handle
+- **Developer:** Connor Collier (@ConnorCollier7)
 - **Hobby:** Pixel Art
 - **Preferred Development Tool:** VS Code

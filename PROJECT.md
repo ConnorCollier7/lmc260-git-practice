@@ -4,8 +4,8 @@
 ## Project Idea
 TBD
 ## Project Name
-TBD
+GitHub Collaboration Practice
 ## Problem to Solve
 Student Collaboration in GIT
 ## Target User
-TBD
+CS3354 Students

@@ -6,6 +6,6 @@ TBD
 ## Project Name
 TBD
 ## Problem to Solve
-TBD
+Student Collaboration in GIT
 ## Target User
 TBD
